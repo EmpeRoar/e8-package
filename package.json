@@ -1,0 +1,11 @@
+{
+  "name": "e8-package",
+  "version": "1.0.0",
+  "description": "e8 first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
